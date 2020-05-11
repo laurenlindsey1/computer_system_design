@@ -19,5 +19,3 @@ Coded using MIPS assembly language on Mars.
 MIPS assembly language program to play the Jeopardy theme song - can be played with various instruments at different volumes. Uses the sleep and MIDI out assembly directives. 
 
 Coded using MIPS assembly language on Mars.
-
-Listen to it [here](jeopardy.mp3)
